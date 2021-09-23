@@ -1,5 +1,8 @@
 _repo: The-Church-of-Sancta-Sophia-Constantinople-A-Study-of-Byzantine-Building_66302
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66302-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Lethaby, W. R. (William Richard)
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '53738'
     url: http://www.gutenberg.org/2009/agents/53738
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66302#The-Church-of-Sancta-Sophia-Constantinople-A-Study-of-Byzantine-Building
 gutenberg_issued: '2021-09-14'
 identifiers:
   gutenberg: '66302'
